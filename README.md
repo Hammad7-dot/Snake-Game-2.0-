@@ -1,1 +1,1 @@
-to play type python game.py
+to play type:    python game.py
